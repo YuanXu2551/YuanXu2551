@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yuan Xu
-- 👀 I’m interested in Machine learning, Web Development and Distributed system
+- 👀 I’m interested in Machine learning, Web Development and database system
 - 🌱 I’m currently learning how to make machine learning algorithm more robust
 - 📫 How to reach me: email: yxu2049@gmail.com
 
