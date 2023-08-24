@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Yuan Xu
-- 👀 I’m interested in Machine learning, Web Development and database system
-- 📫 How to reach me: email: yxu2049@gmail.com
-
-<!---
-YuanXu2551/YuanXu2551 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hey there, internet traveler! I'm Yuan Xu.
+👀 In the vast world of tech, my heart beats for Machine Learning, Web Development, and Database Systems.
+📫 Slide into my emails if you wanna chat: yxu2049@gmail.com.
+🌐 And hey, while you're surfing the web, check out my digital realm. Catch you on the flip side!
